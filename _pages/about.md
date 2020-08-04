@@ -6,7 +6,4 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-
-
-I am a CS PhD student at Indiana University. 
+--- 
