@@ -18,6 +18,4 @@ Boli Fang, Miao Jiang, Pei-yi Cheng, Jerry Shen, Yi Fang. [Achieving Outcome Fai
 
 Services
 -======
-Conference/Journal Reviewer/Sub-reviewer
-
-NeurIPS(2020), ICML(2020), VLDB(2020), ICDE(2020)
+Conference/Journal Reviewer/Sub-reviewer: NeurIPS(2020), ICML(2020), VLDB(2020), ICDE(2020)
