@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 --- 
 
-I am a CS PhD student. 
-
 
 Publications
 -======
