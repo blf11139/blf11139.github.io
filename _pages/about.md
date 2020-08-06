@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I am a CS PhD student at Indiana University, currently co-advised by Prof Qin Zhang and Prof David Crandall. I'm supported by NSF CCF-1844234 and IIS-1633215.  
+I am a CS PhD student at Indiana University, co-advised by Prof Qin Zhang and Prof David Crandall. I'm supported by NSF CCF-1844234 and IIS-1633215.  
 
 Publications
 -======
