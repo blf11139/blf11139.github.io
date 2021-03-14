@@ -18,5 +18,6 @@ Services
 -======
 Reviewer/Sub-reviewer for: 
 
-Conferences: NeurIPS(2020), ICML(2020,2021), VLDB(2020, 2021), ICDE(2020), SOSA(2020)
-Journals: ACM Transaction of Data Science(2020)
+* Conferences: NeurIPS(2020), ICML(2020,2021), VLDB(2020, 2021), ICDE(2020), SOSA(2020)
+
+* Journals: ACM Transaction of Data Science(2020)
